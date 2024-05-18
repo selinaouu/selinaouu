@@ -1,6 +1,6 @@
 
 ### hi there, i'm selina. 👋
-- studying computer science @ carletonu '27 🎓
+- studying computer science @ carletonu '26 🎓
 - based in ottawa, ontario 🌎
 - curious about ml, fintech, cv opportunities and initiatives 🚀
 
